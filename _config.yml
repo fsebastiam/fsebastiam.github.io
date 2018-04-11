@@ -98,7 +98,7 @@ analytics:
 # Site Author
 author:
   name             : "Fellipe Sebastiam"
-  avatar           : "/images/bio_picture.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/images/bio_picture.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "These are my two cents on Machine Learning"
   location         : "Greater Chicago Area"
   email            :
